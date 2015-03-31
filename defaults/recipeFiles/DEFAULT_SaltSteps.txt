@@ -1,0 +1,8 @@
+%<well>,<time(min)>,<reagent>,<ri>,<flow rate>,<temp>,<comment>
+8,5,DIW,1.333,20,25,baseline
+1,5,62.5mM NaCl,1.3332,20,25,salt
+2,5,125mM NaCl,1.3341,20,25,salt
+3,5,250mM NaCl,1.3353,20,25,salt
+4,5,500mM NaCl,1.3375,20,25,salt
+5,5,1M NaCl,1.3432,20,25,salt
+8,5,DIW,1.333,20,25,baseline
